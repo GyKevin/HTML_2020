@@ -19,9 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6483bd71-31bf-4c34-b8e9-c978016fa2fc" name="Default Changelist" comment="Hoofdstuk 2 opdrachten">
-      <change afterPath="$PROJECT_DIR$/h03/Opdracht3_1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/h03/Opdracht3_2.html" afterDir="false" />
+    <list default="true" id="6483bd71-31bf-4c34-b8e9-c978016fa2fc" name="Default Changelist" comment="Hoofdstuk 3 opdracht 2">
+      <change afterPath="$PROJECT_DIR$/h04/css/wilkens.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/h04/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
@@ -37,6 +37,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -55,14 +56,23 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JavaScript Debug.index.html">
     <configuration name="Opdracht3_1.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/HTML2020/h03/Opdracht3_1.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="Opdracht3_2.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/HTML2020/h03/Opdracht3_2.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/HTML2020/h04/index.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.index.html" />
+        <item itemvalue="JavaScript Debug.Opdracht3_2.html" />
         <item itemvalue="JavaScript Debug.Opdracht3_1.html" />
       </list>
     </recent_temporary>
@@ -78,7 +88,8 @@
       <workItem from="1600331318452" duration="1989000" />
       <workItem from="1600412825730" duration="5761000" />
       <workItem from="1600673712365" duration="711000" />
-      <workItem from="1600683630263" duration="2883000" />
+      <workItem from="1600683630263" duration="7122000" />
+      <workItem from="1600762317233" duration="5444000" />
     </task>
     <task id="LOCAL-00001" summary="link bij hoofdpagina toegevoegd.">
       <created>1600332313222</created>
@@ -122,7 +133,35 @@
       <option name="project" value="LOCAL" />
       <updated>1600417724014</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Hoofdstuk 3 opdracht 1">
+      <created>1600687791666</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1600687791666</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Hoofdstuk 3 opdracht 1">
+      <created>1600687873462</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1600687873462</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Hoofdstuk 3 opdracht 1">
+      <created>1600687904989</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1600687904989</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Hoofdstuk 3 opdracht 2">
+      <created>1600694614895</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1600694614895</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -144,7 +183,9 @@
     <MESSAGE value="link bij hoofdpagina toegevoegd." />
     <MESSAGE value="Wat veranderingen gedaan" />
     <MESSAGE value="Hoofdstuk 2 opdrachten" />
-    <option name="LAST_COMMIT_MESSAGE" value="Hoofdstuk 2 opdrachten" />
+    <MESSAGE value="Hoofdstuk 3 opdracht 1" />
+    <MESSAGE value="Hoofdstuk 3 opdracht 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Hoofdstuk 3 opdracht 2" />
   </component>
   <component name="WindowStateProjectService">
     <state x="837" y="423" key="Github.ShareDialog" timestamp="1600331628433">
@@ -155,9 +196,9 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="770" y="230" key="Github.UntrackedFilesDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1600331643456" />
-    <state x="552" y="258" key="Vcs.Push.Dialog.v2" timestamp="1600417725315">
+    <state x="552" y="258" key="Vcs.Push.Dialog.v2" timestamp="1600694616813">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="552" y="258" key="Vcs.Push.Dialog.v2/0.0.1920.1050@0.0.1920.1050" timestamp="1600417725315" />
+    <state x="552" y="258" key="Vcs.Push.Dialog.v2/0.0.1920.1050@0.0.1920.1050" timestamp="1600694616813" />
   </component>
 </project>
