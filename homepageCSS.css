@@ -3,8 +3,8 @@ body {
 }
 
 nav {
-    background-color: black;
-    padding: 10px;
+    background-color: #1a1a1a;
+    padding: 15px;
 }
 nav a {
     color:white;
@@ -12,4 +12,71 @@ nav a {
     text-decoration: none;
     padding-right: 5px;
     border-right: 2px solid white;
+}
+h2 {
+text-align: center;
+    color: white;
+}
+
+h3 {
+    text-align: center;
+    color: white;
+}
+
+body {
+    background-color: #333333;
+}
+
+.pfp {
+    max-width: 100%;
+    height: 300px;
+    background-image: url('img/pfp.jpg');
+    vertical-align: middle;
+    border-radius: 50%;
+    border: 2px solid #808080;
+}
+
+.contact {
+    position: relative;
+    max-width: 100%;
+    height: 30px;
+    background-image: url("img/add-user-xxl.png");
+    vertical-align: bottom;
+    margin-left: 810px;
+    margin-bottom: 230px;
+
+}
+
+.outlook {
+    position: relative;
+    max-width: 100%;
+    height: 20px;
+    vertical-align: bottom;
+    margin-bottom: 180px;
+    margin-left: -35px;
+}
+
+.gmail {
+    position: relative;
+    max-width: 100%;
+    height: 20px;
+    vertical-align: bottom;
+    margin-bottom: 145px;
+    margin-left: -23px;
+
+}
+
+p {
+    color: white;
+    font-weight: lighter;
+    display: inline-block;
+    margin-left: 30px;
+}
+
+.p1 {
+    color: white;
+    font-weight: lighter;
+    display: inline-block;
+    margin-left: 10px;
+
 }

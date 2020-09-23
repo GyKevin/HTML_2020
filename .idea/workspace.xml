@@ -19,7 +19,12 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6483bd71-31bf-4c34-b8e9-c978016fa2fc" name="Default Changelist" comment="Hoofdstuk 4 wilkens website" />
+    <list default="true" id="6483bd71-31bf-4c34-b8e9-c978016fa2fc" name="Default Changelist" comment="Home pagina een nieuwe look gegeven">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homepageCSS.css" beforeDir="false" afterPath="$PROJECT_DIR$/homepageCSS.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/demoman.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -90,6 +95,7 @@
       <workItem from="1600683630263" duration="7122000" />
       <workItem from="1600762317233" duration="6160000" />
       <workItem from="1600844666940" duration="720000" />
+      <workItem from="1600846863385" duration="6795000" />
     </task>
     <task id="LOCAL-00001" summary="link bij hoofdpagina toegevoegd.">
       <created>1600332313222</created>
@@ -175,7 +181,14 @@
       <option name="project" value="LOCAL" />
       <updated>1600846826524</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Home pagina een nieuwe look gegeven">
+      <created>1600847175920</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1600847175921</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -200,7 +213,8 @@
     <MESSAGE value="Hoofdstuk 3 opdracht 1" />
     <MESSAGE value="Hoofdstuk 3 opdracht 2" />
     <MESSAGE value="Hoofdstuk 4 wilkens website" />
-    <option name="LAST_COMMIT_MESSAGE" value="Hoofdstuk 4 wilkens website" />
+    <MESSAGE value="Home pagina een nieuwe look gegeven" />
+    <option name="LAST_COMMIT_MESSAGE" value="Home pagina een nieuwe look gegeven" />
   </component>
   <component name="WindowStateProjectService">
     <state x="837" y="423" key="Github.ShareDialog" timestamp="1600331628433">
@@ -211,9 +225,9 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="770" y="230" key="Github.UntrackedFilesDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1600331643456" />
-    <state x="552" y="258" key="Vcs.Push.Dialog.v2" timestamp="1600846828230">
+    <state x="552" y="258" key="Vcs.Push.Dialog.v2" timestamp="1600847177686">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="552" y="258" key="Vcs.Push.Dialog.v2/0.0.1920.1050@0.0.1920.1050" timestamp="1600846828230" />
+    <state x="552" y="258" key="Vcs.Push.Dialog.v2/0.0.1920.1050@0.0.1920.1050" timestamp="1600847177686" />
   </component>
 </project>
