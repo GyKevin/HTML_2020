@@ -19,10 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6483bd71-31bf-4c34-b8e9-c978016fa2fc" name="Default Changelist" comment="Hoofdstuk 4 wilkens website">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="6483bd71-31bf-4c34-b8e9-c978016fa2fc" name="Default Changelist" comment="Hoofdstuk 4 wilkens website" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -57,11 +54,14 @@
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunManager" selected="JavaScript Debug.index.html">
+  <component name="RunManager" selected="JavaScript Debug.index.html (1)">
     <configuration name="Opdracht3_1.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/HTML2020/h03/Opdracht3_1.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <configuration name="Opdracht3_2.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/HTML2020/h03/Opdracht3_2.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="index.html (1)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/HTML2020/index.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/HTML2020/h04/index.html" useBuiltInWebServerPort="true">
@@ -69,6 +69,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.index.html (1)" />
         <item itemvalue="JavaScript Debug.index.html" />
         <item itemvalue="JavaScript Debug.Opdracht3_2.html" />
         <item itemvalue="JavaScript Debug.Opdracht3_1.html" />
@@ -88,7 +89,7 @@
       <workItem from="1600673712365" duration="711000" />
       <workItem from="1600683630263" duration="7122000" />
       <workItem from="1600762317233" duration="6160000" />
-      <workItem from="1600844666940" duration="617000" />
+      <workItem from="1600844666940" duration="720000" />
     </task>
     <task id="LOCAL-00001" summary="link bij hoofdpagina toegevoegd.">
       <created>1600332313222</created>
@@ -167,7 +168,14 @@
       <option name="project" value="LOCAL" />
       <updated>1600768317877</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Hoofdstuk 4 wilkens website">
+      <created>1600846826524</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1600846826524</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -203,9 +211,9 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="770" y="230" key="Github.UntrackedFilesDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1600331643456" />
-    <state x="552" y="258" key="Vcs.Push.Dialog.v2" timestamp="1600768319201">
+    <state x="552" y="258" key="Vcs.Push.Dialog.v2" timestamp="1600846828230">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="552" y="258" key="Vcs.Push.Dialog.v2/0.0.1920.1050@0.0.1920.1050" timestamp="1600768319201" />
+    <state x="552" y="258" key="Vcs.Push.Dialog.v2/0.0.1920.1050@0.0.1920.1050" timestamp="1600846828230" />
   </component>
 </project>
