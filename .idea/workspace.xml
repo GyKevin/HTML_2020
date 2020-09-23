@@ -19,9 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6483bd71-31bf-4c34-b8e9-c978016fa2fc" name="Default Changelist" comment="Hoofdstuk 3 opdracht 2">
-      <change afterPath="$PROJECT_DIR$/h04/css/wilkens.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/h04/index.html" afterDir="false" />
+    <list default="true" id="6483bd71-31bf-4c34-b8e9-c978016fa2fc" name="Default Changelist" comment="Hoofdstuk 4 wilkens website">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
@@ -89,7 +87,8 @@
       <workItem from="1600412825730" duration="5761000" />
       <workItem from="1600673712365" duration="711000" />
       <workItem from="1600683630263" duration="7122000" />
-      <workItem from="1600762317233" duration="5444000" />
+      <workItem from="1600762317233" duration="6160000" />
+      <workItem from="1600844666940" duration="617000" />
     </task>
     <task id="LOCAL-00001" summary="link bij hoofdpagina toegevoegd.">
       <created>1600332313222</created>
@@ -161,7 +160,14 @@
       <option name="project" value="LOCAL" />
       <updated>1600694614895</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Hoofdstuk 4 wilkens website">
+      <created>1600768317877</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1600768317877</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -185,7 +191,8 @@
     <MESSAGE value="Hoofdstuk 2 opdrachten" />
     <MESSAGE value="Hoofdstuk 3 opdracht 1" />
     <MESSAGE value="Hoofdstuk 3 opdracht 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Hoofdstuk 3 opdracht 2" />
+    <MESSAGE value="Hoofdstuk 4 wilkens website" />
+    <option name="LAST_COMMIT_MESSAGE" value="Hoofdstuk 4 wilkens website" />
   </component>
   <component name="WindowStateProjectService">
     <state x="837" y="423" key="Github.ShareDialog" timestamp="1600331628433">
@@ -196,9 +203,9 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="770" y="230" key="Github.UntrackedFilesDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1600331643456" />
-    <state x="552" y="258" key="Vcs.Push.Dialog.v2" timestamp="1600694616813">
+    <state x="552" y="258" key="Vcs.Push.Dialog.v2" timestamp="1600768319201">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="552" y="258" key="Vcs.Push.Dialog.v2/0.0.1920.1050@0.0.1920.1050" timestamp="1600694616813" />
+    <state x="552" y="258" key="Vcs.Push.Dialog.v2/0.0.1920.1050@0.0.1920.1050" timestamp="1600768319201" />
   </component>
 </project>
