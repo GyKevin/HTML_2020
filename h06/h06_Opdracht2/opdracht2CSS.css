@@ -1,0 +1,81 @@
+div.form-groep {
+    width: 500px;
+    padding: 20px;
+}
+input.namen-input {
+float: right;
+    width: 300px;
+}
+
+input.checkbox-input {
+    float: left;
+}
+
+section.namen {
+    width: 50%;
+    float: left;
+}
+
+div.checkbox-positie{
+    width: 400px;
+    padding: 10px;
+}
+
+section.checkbox {
+    width: 50%;
+    float: right;
+}
+
+p#lekker-eten {
+    position: absolute;
+    margin-top: 10px;
+    margin-left: 860px;
+}
+
+section.radio {
+    width: 500px;
+    padding: 20px;
+    position: absolute;
+    margin-top: 200px;
+}
+
+div.radio-input {
+    float: right;
+    width: 100%;
+}
+
+section.select-input {
+    width: 100%;
+    float: right;
+    margin-top: 100px;
+}
+
+div.select {
+    width: 500px;
+    padding: 20px;
+}
+
+section.datum-input {
+    width: 100%;
+    float: right;
+}
+
+div.datum {
+    width: 500px;
+    padding: 20px;
+}
+
+section.textarea-input {
+    width: 100%;
+    float: right;
+}
+
+div.textarea {
+    width: 500px;
+    padding: 20px;
+}
+
+label.textarea-label {
+    position: relative;
+    margin-bottom: 50px;
+}

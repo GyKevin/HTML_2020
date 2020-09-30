@@ -19,25 +19,11 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6483bd71-31bf-4c34-b8e9-c978016fa2fc" name="Default Changelist" comment="H05 opdracht">
-      <change afterPath="$PROJECT_DIR$/h06/h06_Opdracht1/formulierCSS.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/h06/h06_Opdracht1/img/1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/h06/h06_Opdracht1/img/2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/h06/h06_Opdracht1/img/3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/h06/h06_Opdracht1/img/4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/h06/h06_Opdracht1/img/appel.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/h06/h06_Opdracht1/img/book.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/h06/h06_Opdracht1/img/burton_logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/h06/h06_Opdracht1/img/bus.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/h06/h06_Opdracht1/img/desk.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/h06/h06_Opdracht1/img/football.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/h06/h06_Opdracht1/img/pythagoras.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/h06/h06_Opdracht1/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/h06/h06_Opdracht1/login.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/h06/h06_Opdracht2/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/h06/index.html" afterDir="false" />
+    <list default="true" id="6483bd71-31bf-4c34-b8e9-c978016fa2fc" name="Default Changelist" comment="H06 opdrachten">
+      <change afterPath="$PROJECT_DIR$/h06/h06_Opdracht2/opdracht2CSS.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/h06/h06_Opdracht2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/h06/h06_Opdracht2/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/h06/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/h06/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,8 +36,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="CSS File" />
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -83,28 +69,28 @@
     </key>
   </component>
   <component name="RunManager" selected="JavaScript Debug.index.html (3)">
-    <configuration name="index.html (1)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/HTML2020/index.html" useBuiltInWebServerPort="true">
-      <method v="2" />
-    </configuration>
     <configuration name="index.html (2)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/HTML2020/h05/index.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <configuration name="index.html (3)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/HTML2020/h06/h06_Opdracht2/index.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/HTML2020/h04/index.html" useBuiltInWebServerPort="true">
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/HTML2020/h06/index.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <configuration name="login.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/HTML2020/h06/h06_Opdracht1/login.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
+    <configuration name="test.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/HTML2020/h06/h06_Opdracht2/test.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="JavaScript Debug.index.html (3)" />
+        <item itemvalue="JavaScript Debug.index.html" />
+        <item itemvalue="JavaScript Debug.test.html" />
         <item itemvalue="JavaScript Debug.login.html" />
         <item itemvalue="JavaScript Debug.index.html (2)" />
-        <item itemvalue="JavaScript Debug.index.html (1)" />
-        <item itemvalue="JavaScript Debug.index.html" />
       </list>
     </recent_temporary>
   </component>
@@ -124,7 +110,8 @@
       <workItem from="1600844666940" duration="720000" />
       <workItem from="1600846863385" duration="9823000" />
       <workItem from="1600930985382" duration="4533000" />
-      <workItem from="1601377191891" duration="2745000" />
+      <workItem from="1601377191891" duration="2825000" />
+      <workItem from="1601460415027" duration="6963000" />
     </task>
     <task id="LOCAL-00001" summary="link bij hoofdpagina toegevoegd.">
       <created>1600332313222</created>
@@ -245,7 +232,14 @@
       <option name="project" value="LOCAL" />
       <updated>1600935682174</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="H06 opdrachten">
+      <created>1601380008825</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1601380008825</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -272,7 +266,8 @@
     <MESSAGE value="Hoofdstuk 4 wilkens website" />
     <MESSAGE value="Home pagina een nieuwe look gegeven" />
     <MESSAGE value="H05 opdracht" />
-    <option name="LAST_COMMIT_MESSAGE" value="H05 opdracht" />
+    <MESSAGE value="H06 opdrachten" />
+    <option name="LAST_COMMIT_MESSAGE" value="H06 opdrachten" />
   </component>
   <component name="WindowStateProjectService">
     <state x="837" y="423" key="Github.ShareDialog" timestamp="1600331628433">
@@ -283,9 +278,9 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="770" y="230" key="Github.UntrackedFilesDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1600331643456" />
-    <state x="552" y="258" key="Vcs.Push.Dialog.v2" timestamp="1600935684945">
+    <state x="552" y="258" key="Vcs.Push.Dialog.v2" timestamp="1601380011664">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="552" y="258" key="Vcs.Push.Dialog.v2/0.0.1920.1050@0.0.1920.1050" timestamp="1600935684945" />
+    <state x="552" y="258" key="Vcs.Push.Dialog.v2/0.0.1920.1050@0.0.1920.1050" timestamp="1601380011664" />
   </component>
 </project>
