@@ -1,3 +1,7 @@
+* {
+    font-family: 'Ubuntu', sans-serif;
+}
+
 div.form-groep {
     width: 500px;
     padding: 20px;
